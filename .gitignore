@@ -1,4 +1,0 @@
-# 忽略所有class文件
-*.class
-# 不忽略所有class文件
-!*.class
